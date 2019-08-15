@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408841563590",
+    "firebase_url": "https://vinnish-rent-a-car-1e5e8.firebaseio.com",
+    "project_id": "vinnish-rent-a-car-1e5e8",
+    "storage_bucket": "vinnish-rent-a-car-1e5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408841563590:android:6ca8590332a3abad",
+        "android_client_info": {
+          "package_name": "com.example.vinnishrentacar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408841563590-llju8qk69d0dm4q0mvb60ho6144llmu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinnishrentacar",
+            "certificate_hash": "1f0d72cb3b71299e1149f72b101193f3794063e7"
+          }
+        },
+        {
+          "client_id": "408841563590-0269h45e6grmhdb15dk041km2gqovp2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4BhcEi6j61GIgUP98XyWE49lRj5IOeGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408841563590-0269h45e6grmhdb15dk041km2gqovp2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
